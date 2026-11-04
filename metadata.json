@@ -1,0 +1,8 @@
+{
+  "name": "MR INDIA — Student Ranking Lab",
+  "description": "An independent student cognitive and behavioral assessment platform evaluating academic habits, learning heuristics, and cohort ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
